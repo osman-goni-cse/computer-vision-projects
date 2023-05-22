@@ -1,0 +1,12 @@
+*.mp4
+*.pb
+*.cfg
+*.weights
+*.config
+*.jpg
+*.jpeg
+*.png
+*.prototxt
+Amazon*
+RekoKinesis
+All Dataset
